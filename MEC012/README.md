@@ -85,7 +85,7 @@ Technically speaking, the above request triggers the client to perform first a G
 **Giada Landi**, **Elian Kraja**, **Pietro Piscione**  [Nextworks S.r.l.](http://www.nextworks.it)
 
 ### License
-This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/nextworks-it/MEC-applications/MEC012/LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/nextworks-it/MEC-applications/blob/master/LICENSE) file for details.
 
 
 
